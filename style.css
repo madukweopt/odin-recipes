@@ -1,0 +1,15 @@
+* {
+    background-color: rgb(173, 177, 154)
+}
+img {
+    height: auto;
+    width: 600px;
+    }
+.text {
+font-size: 20px;
+font-family: Georgia, 'Times New Roman', Arial, Helvetica, sans-serif;
+    }
+h1{
+    color: hsl(298, 78%, 35%);
+}
+    
